@@ -105,7 +105,7 @@ label.logo{
    }
    a:hover, a.active{
     background: none;
-    color:rgb(191, 191, 223);
+    color:rgb(21, 59, 13);
    }
 #check:checked ~ ul{
     left:0
